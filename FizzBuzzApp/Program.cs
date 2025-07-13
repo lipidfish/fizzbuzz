@@ -5,7 +5,7 @@
         {
             for (int i = 1; i <= 100; i++)
             {
-                Console.WriteLine(FizzBuzz.GetFizzBuzz(i));
+                Console.WriteLine(FizzBuzz.GetFizzBuzz(2));
             }
         }
     }

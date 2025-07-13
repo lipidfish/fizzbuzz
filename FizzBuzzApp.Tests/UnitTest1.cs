@@ -3,9 +3,9 @@
 public class UnitTest1
 {
     [Fact]
-        public void GetFizzBuzz_ReturnsExpectedResult(int input, string expected)
+        public void GetFizzBuzz_ReturnsExpectedResult()
         {
-            var result = FizzBuzz.GetFizzBuzz(input);
-            Assert.Equal(expected, result);
+            var result = FizzBuzz.GetFizzBuzz(1);
+            Assert.Equal("this should fail :)", result);
         }
 }
