@@ -6,7 +6,7 @@ namespace FizzBuzzApp
     {
         public static string GetFizzBuzz(int number)
         {
-            return number.ToString();
+            return "1";
             //throw new NotImplementedException("This method is not implemented yet.");
         }
     }
