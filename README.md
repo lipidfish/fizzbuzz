@@ -12,6 +12,9 @@ This is a Console App written in C#, and is intended to be a starting point for 
    - C# Tools installed
 5. Git (either on visual studio of Git Bash)
 
+**Optional**
+Install Git Bash if you like the command line [link](https://git-scm.com/install/windows)
+
 **TODO List**
 1. Clone this repo to a folder on your computer
 2. Open this folder in VS Code
